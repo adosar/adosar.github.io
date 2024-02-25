@@ -18,7 +18,7 @@ You can view my full CV [here](https://raw.githubusercontent.com/adosar/adosar.g
 ## 💼 Experience
 * Teaching assistant on the **Laboratory of Physical Chemistry II**, 2023
   University of Crete, Department of Chemistry
-* 🎓 Teaching assistant on the **Laboratory of Physical Chemistry I**, 2023
+* Teaching assistant on the **Laboratory of Physical Chemistry I**, 2023
   University of Crete, Department of Chemistry
 
 
