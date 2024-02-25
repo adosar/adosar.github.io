@@ -41,14 +41,14 @@ Useful links:
 * 📚 [Documentation](https://moxel.readthedocs.io/en/stable/)
 
 # 📰 Publications
-1.  [Gas adsorption meets deep learning: voxelizing the potential energy surface of metal-organic frameworks](https://www.nature.com/articles/s41598-023-50309-8)
+* [Gas adsorption meets deep learning: voxelizing the potential energy surface of metal-organic frameworks](https://www.nature.com/articles/s41598-023-50309-8)
 <p align="center">
   <img alt="RetNet Architecture" src="https://raw.githubusercontent.com/adosar/retnet/master/images/retnet.png" width="60%"/>
 </p>
 
-2. [Comparison of machine learning approaches for the identification of top-performing materials for hydrogen storage](https://www.sciencedirect.com/science/article/pii/S2949839223000561)
+* [Comparison of machine learning approaches for the identification of top-performing materials for hydrogen storage](https://www.sciencedirect.com/science/article/pii/S2949839223000561)
 <p align="center">
   <img alt="RetNet Architecture" src="https://ars.els-cdn.com/content/image/1-s2.0-S2949839223000561-ga1_lrg.jpg" width="60%"/>
 </p>
 
-3. [Comparison of Energy-Based Machine Learning Descriptors for Gas Adsorption](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.3c04223)
+* [Comparison of Energy-Based Machine Learning Descriptors for Gas Adsorption](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.3c04223)
