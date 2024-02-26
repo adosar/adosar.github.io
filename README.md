@@ -24,7 +24,7 @@ You can view my full CV [here](https://raw.githubusercontent.com/adosar/adosar.g
 
 
 ## 📈 Interests
-* Computers 💻 and artifical intelligence
+* Computers 💻 and artifical intelligence 👾
 * Watches ⌚ (especially the mechanical ones ♥️)
 
 # 🚀 Software
