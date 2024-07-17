@@ -23,7 +23,7 @@ currently a PhD student in the [Materials Modeling & Design Group][mmdg] at
 on developing and applying ML algorithms for predicting gas adsorption
 properties of porous materials. If you are interested in learning more about
 machine learning and deep learning, you can take a look at the [theoretical
-chapter](https://raw.githubusercontent.com/adosar/adosar.github.io/main/assets/chapter_2.pdf)
+chapter](https://raw.githubusercontent.com/adosar/adosar.github.io/master/assets/chapter_2.pdf)
 of my master thesis. Beyond my research, I enjoy problem-solving, coding and
 learning new things about computers and Artificial Intelligence. Additionally, I
 have a deep passion for watches, especially the mechanical ones ❤️.
