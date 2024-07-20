@@ -50,7 +50,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Resume
+  - title:             Résumé
     url:               https://raw.githubusercontent.com/adosar/adosar.github.io/master/assets/antonios_sarikas_resume.pdf
   - title:             Publications
     url:               /publications
