@@ -21,12 +21,12 @@ currently a PhD student in the [Materials Modeling & Design Group][mmdg] at
 [University of Crete][uoc], specializing in the application of Machine Learning
 (ML) techniques to study gas adsorption in porous materials. My research focuses
 on developing and applying ML algorithms for predicting gas adsorption
-properties of porous materials. If you are interested in learning more about
-machine learning and deep learning, you can take a look at the [theoretical
-chapter](https://raw.githubusercontent.com/adosar/adosar.github.io/master/assets/chapter_2.pdf)
-of my master thesis. Beyond my research, I enjoy problem-solving, coding and
-learning new things about computers and Artificial Intelligence. Additionally, I
-have a deep passion for watches, especially the mechanical ones ❤️.
+properties of metal-organic frameworks (MOFs). If you are interested in learning more about
+machine learning and deep learning, you can take a look at my [master
+thesis](https://raw.githubusercontent.com/adosar/master_thesis/master/master.pdf)
+. Beyond my research, I enjoy problem-solving, coding and learning new things
+about computers and Artificial Intelligence. Additionally, I have a deep passion
+for watches, especially the mechanical ones ❤️.
 
 > If the implementation is easy to explain, it may be a good idea.
 >
@@ -34,13 +34,14 @@ have a deep passion for watches, especially the mechanical ones ❤️.
 
 ## 🎓 Education
 
-* MSc in Computational Chemistry, 2024 University of Crete, Department of Chemistry  
+* MSc in Physical Chemistry, 2024 University of Crete, Department of Chemistry  
 **Thesis title:** *From Potential Energy Surface to Gas Adsorption via Deep
 Learning*  
 **Description:** Developed a deep learning based method for predicting gas
 adsorption in porous materials.  
 **Supervisor:** Prof. [George E. Froudakis][frudakis]  
-**GPA:** 9.86 (Excellent)
+**GPA:** 9.86 (Excellent)  
+**Repository**: <https://github.com/adosar/master_thesis>
 
 * BSc in Chemistry, 2024 University of Crete, Department of Chemistry  
 **Thesis title:** *Screening MOFs for Hydrogen storage via Machine Learning*  
