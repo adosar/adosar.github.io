@@ -13,7 +13,7 @@ redirect_from:
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&duration=3000&pause=1000&color=FFFFFF&background=101130&center=true&vCenter=true&width=520&lines=%F0%9F%97%A8%EF%B8%8F+Feel+free+to+explore+my+Google+Scholar+profile!;%F0%9F%96%B1%EF%B8%8F+Click+the+Google+Scholar+link+on+the+sidebar!" />
 </p>
 
-## 📜 [Gas adsorption meets deep learning: voxelizing the potential energy surface of metal-organic frameworks][retnet]
+## 📜 [Gas adsorption meets deep learning: voxelizing the potential energy surface of metal-organic frameworks][retnet_paper]
 
 Developing [RetNet][retnet], a 3D convolutional neural network that takes as input a 3D energy image and predicts one or more gas adsorption properties.
 
@@ -38,7 +38,7 @@ Comparing enery-based descriptors regarding their impact on the performance of M
 </p>
 
 [scholar]: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=Zv2Uk0AAAAAJ&authuser=1&scilu=&scisig=AOScLA0AAAAAZTZOq_UhR11DllEgGMnBJdJ2rLw&gmla=AJ1KiT0f5uPOfsFiMcEy9LtOu3Sk-24gDUzLOAQIzjA29mA-yH1xbDz4du7yoiQObS41EU_cNCWpSKLwnFq5xLzrC9Pp1kFSJxx2mFQ&sciund=14498684564743431950
-[retnet]: https://www.nature.com/articles/s41598-023-50309-8
+[retnet_paper]: https://www.nature.com/articles/s41598-023-50309-8
 [sc]: https://www.sciencedirect.com/science/article/pii/S2949839223000561
 [descriptors]: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.3c04223
 [retnet]: https://github.com/adosar/retnet
