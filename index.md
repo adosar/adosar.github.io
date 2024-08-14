@@ -65,7 +65,7 @@ of large MOF databases.
 | ------------------------------- | :------------------------------------------------------------------------------------------------: |
 | Operating Systems               | ![fedora][fedora] ![ubuntu][ubuntu]                                                                |
 | Programming Languages           | ![python][python] ![fortran][fortran]                                                              |
-| Markup languages                | ![latex][latex] ![markdown][markdown]                                                              |
+| Markup Languages                | ![latex][latex] ![markdown][markdown]                                                              |
 | Deep Learning Frameworks        | ![pytorch][pytorch] ![lightning][lightning]                                                        |
 | Libraries                       | ![numpy][numpy] ![pandas][pandas] ![sklearn][sklearn] ![plotly][plotly] ![matplotlib][matplotlib]  |
 | Other Tools                     | ![git][git] ![github][github] ![sphinx][sphinx] ![vim][vim]                                        |
