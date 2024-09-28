@@ -16,7 +16,7 @@ redirect_from:
 
 👋 Hello,
 
-I am a Chemistry graduate with a Master's degree in Computational Chemistry, and
+I am a Chemistry graduate with a Master's degree in Physical Chemistry, and
 currently a PhD student in the [Materials Modeling & Design Group][mmdg] at
 [University of Crete][uoc], specializing in the application of Machine Learning
 (ML) techniques to study gas adsorption in porous materials. My research focuses
@@ -48,7 +48,7 @@ adsorption in porous materials.
 **Description:** Developed a machine learning based method for fast screening
 of large MOF databases.  
 **Supervisor:** Prof. [George E. Froudakis][frudakis]  
-**GPA:** 8.64 (Excellent), first of the class, graduated in 3.5 years ahead of the standard 4-year time-frame
+**GPA:** 8.64 (Excellent), graduated in 3.5 years, first of the class
 
 ## 🏅 Scholarships & Awards
 
@@ -98,4 +98,3 @@ of large MOF databases.
 [github]: https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&color=%23101130
 [sphinx]: https://img.shields.io/badge/sphinx-black?style=for-the-badge&logo=sphinx&logoColor=white&color=%23101130
 [vim]: https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white&color=%23101130
-
