@@ -20,7 +20,7 @@ redirect_from:
 </h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=pip+install+aidsorb;aidsorb+fit+--config%3Dconfig.yaml"
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=pip+install+aidsorb;aidsorb+fit+--config%3Dconfig.yaml" />
 </p>
 
 * 🏠 [Homepage](https://github.com/adosar/aidsorb)
