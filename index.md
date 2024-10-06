@@ -73,7 +73,7 @@ of large MOF databases.
 
 
 
-[mmdg]: https://www.chemistry.uoc.gr/frudakis/
+[mmdg]: https://www.chemistry.uoc.gr/mmdg/
 [uoc]: https://en.uoc.gr/
 [frudakis]: https://scholar.google.gr/citations?user=FrBT2foAAAAJ&hl=en
 [stamatiou]: https://emstamatiou.gr/
