@@ -43,7 +43,7 @@ adsorption in porous materials.
 **GPA:** 9.86 (Excellent)  
 **Repository**: <https://github.com/adosar/master_thesis>
 
-* BSc in Chemistry, 2024 University of Crete, Department of Chemistry  
+* BSc in Chemistry, 2022 University of Crete, Department of Chemistry  
 **Thesis title:** *Screening MOFs for Hydrogen storage via Machine Learning*  
 **Description:** Developed a machine learning based method for fast screening
 of large MOF databases.  
