@@ -13,9 +13,17 @@ redirect_from:
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&duration=3000&pause=1000&color=FFFFFF&background=101130&center=true&vCenter=true&width=520&lines=%F0%9F%97%A8%EF%B8%8F+Feel+free+to+explore+my+Google+Scholar+profile!;%F0%9F%96%B1%EF%B8%8F+Click+the+Google+Scholar+link+on+the+sidebar!" />
 </p>
 
+## 📜 [Gas adsorption meets deep geometric learning: points, set and match][aidsorb_paper]
+
+Developing [AIdsorb][aidsorb], a deep learning framework takes as input a molecular point cloud and predicts gas adsorption properties.
+
+<p align="center">
+  <img alt="AIdsorb framework" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-024-76319-8/MediaObjects/41598_2024_76319_Fig1_HTML.png?as=webp" width="60%"/>
+</p>
+
 ## 📜 [Gas adsorption meets deep learning: voxelizing the potential energy surface of metal-organic frameworks][retnet_paper]
 
-Developing [RetNet][retnet], a 3D convolutional neural network that takes as input a 3D energy image and predicts one or more gas adsorption properties.
+Developing [RetNet][retnet], a 3D convolutional neural network that takes as input a 3D energy image and predicts gas adsorption properties.
 
 <p align="center">
   <img alt="RetNet Architecture" src="https://raw.githubusercontent.com/adosar/retnet/master/images/retnet.png" width="60%"/>
@@ -38,7 +46,9 @@ Comparing enery-based descriptors regarding their impact on the performance of M
 </p>
 
 [scholar]: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=Zv2Uk0AAAAAJ&authuser=1&scilu=&scisig=AOScLA0AAAAAZTZOq_UhR11DllEgGMnBJdJ2rLw&gmla=AJ1KiT0f5uPOfsFiMcEy9LtOu3Sk-24gDUzLOAQIzjA29mA-yH1xbDz4du7yoiQObS41EU_cNCWpSKLwnFq5xLzrC9Pp1kFSJxx2mFQ&sciund=14498684564743431950
-[retnet_paper]: https://www.nature.com/articles/s41598-023-50309-8
 [sc]: https://www.sciencedirect.com/science/article/pii/S2949839223000561
 [descriptors]: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.3c04223
+[retnet_paper]: https://www.nature.com/articles/s41598-023-50309-8
 [retnet]: https://github.com/adosar/retnet
+[aidsorb_paper]: https://www.nature.com/articles/s41598-024-76319-8
+[aidsorb]: https://github.com/adosar/aidsorb
