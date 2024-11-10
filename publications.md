@@ -15,7 +15,7 @@ redirect_from:
 
 ## 📜 [Gas adsorption meets deep geometric learning: points, set and match][aidsorb_paper]
 
-Developing [AIdsorb][aidsorb], a deep learning framework takes as input a molecular point cloud and predicts gas adsorption properties.
+Developing [AIdsorb][aidsorb], a deep learning framework that takes as input a molecular point cloud and predicts gas adsorption properties.
 
 <p align="center">
   <img alt="AIdsorb framework" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-024-76319-8/MediaObjects/41598_2024_76319_Fig1_HTML.png?as=webp" width="60%"/>
