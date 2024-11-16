@@ -25,7 +25,7 @@ redirect_from:
 
 * 🏠 [Homepage](https://github.com/adosar/aidsorb)
 * 📚 [Documentation](https://aidsorb.readthedocs.io/en/stable/)
-* ✨ [AIdsorb-online](sorb-online.streamlit.app/)
+* ✨ [AIdsorb-online](aidsorb-online.streamlit.app/)
 
 ## 💎 MOXελ: Python package for parallel calculation of energy voxels
 
