@@ -34,7 +34,7 @@ redirect_from:
 </h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=%24+pip+install+pymoxel;%24+moxel+create+path%2Fto%2Fcifs+path%2Fto%2Fout" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%24+pip+install+pymoxel;%24+moxel+create+path%2Fto%2Fcifs+path%2Fto%2Fout" />
 </p>
 
 * 🏠 [Homepage](https://github.com/adosar/moxel)
