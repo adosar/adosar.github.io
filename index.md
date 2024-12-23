@@ -16,7 +16,7 @@ redirect_from:
 
 👋 Hello,
 
-I am a Chemistry graduate with a Master's degree in Physical Chemistry, and
+I am a Chemistry graduate with a Master's degree in Physical & Computational Chemistry, and
 currently a PhD student in the [Materials Modeling & Design Group][mmdg] at
 [University of Crete][uoc], specializing in the application of Machine Learning
 (ML) techniques to study gas adsorption in porous materials. My research focuses
@@ -34,7 +34,7 @@ for watches, especially the mechanical ones ❤️.
 
 ## 🎓 Education
 
-* MSc in Physical Chemistry, 2024 University of Crete, Department of Chemistry  
+* MSc in Physical & Computational Chemistry, 2024 University of Crete, Department of Chemistry  
 **Thesis title:** *From Potential Energy Surface to Gas Adsorption via Deep
 Learning*  
 **Description:** Developed a deep learning based method for predicting gas
