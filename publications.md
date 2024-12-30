@@ -9,10 +9,6 @@ redirect_from:
   - /download/
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&duration=3000&pause=1000&color=FFFFFF&background=101130&center=true&vCenter=true&width=520&lines=%F0%9F%97%A8%EF%B8%8F+Feel+free+to+explore+my+Google+Scholar+profile!;%F0%9F%96%B1%EF%B8%8F+Click+the+Google+Scholar+link+on+the+sidebar!" />
-</p>
-
 ## 📜 [Gas adsorption meets geometric deep learning: points, set and match][aidsorb_paper]
 
 Developing [AIdsorb][aidsorb], a deep learning framework that takes as input a molecular point cloud and predicts gas adsorption properties.
