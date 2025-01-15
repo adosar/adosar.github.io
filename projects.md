@@ -9,6 +9,14 @@ redirect_from:
   - /download/
 ---
 
+## 💎 AIdsorb-online: Predicting properties of porous materials with deep learning
+
+<h4 align="center">
+  <img alt="Logo" src="assets/img/aidsorb_online_website.png" width="40%"/>
+</h4>
+
+* 🚀 [Open the app](https://aidsorb-online.streamlit.app/)
+
 ## 💎 AIdsorb: Python package for deep learning on molecular point clouds
 
 <h4 align="center">
