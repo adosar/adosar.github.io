@@ -12,7 +12,7 @@ redirect_from:
 ## 💎 AIdsorb-online: Predicting properties of porous materials with deep learning
 
 <h4 align="center">
-  <img alt="Logo" src="assets/img/aidsorb_online_website.png" width="40%"/>
+  <img alt="Logo" src="/assets/img/aidsorb_online_website.png" width="40%"/>
 </h4>
 
 * 🚀 [Open the app](https://aidsorb-online.streamlit.app/)
