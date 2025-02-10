@@ -55,7 +55,7 @@ of large MOF databases.
 * Best MSc Thesis Award, [Hellenic Society for the Science and Technology of Condensed Matter][hsstcm], 2025
 * Postgraduate Fellowship, [Independent Power Transmission Operator S.A. (IPTO)][admie] Fellowship, 2024
 * Postgraduate Fellowship, [Maria Michail Manasaki][manasaki] Bequest Fellowship, 2024
-* ["Chatzimarinaki Award"][chatzimarinaki], Department of Chemistry, University of Crete, 2023
+* [Chatzimarinaki Award][chatzimarinaki], Department of Chemistry, University of Crete, 2023
 * Undergraduate Scholarship, [Stamatiou foundation][stamatiou], 2022
 * Undergraduate Scholarship, [Stamatiou foundation][stamatiou], 2021
 * Undergraduate Scholarship, [Stamatiou foundation][stamatiou], 2020
