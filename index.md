@@ -44,7 +44,7 @@ adsorption in porous materials.
 **Repository**: <https://github.com/adosar/master_thesis>
 
 * BSc in Chemistry, 2022 University of Crete, Department of Chemistry  
-**Thesis title:** *Screening MOFs for Hydrogen storage via Machine Learning*  
+**Thesis title:** *Screening MOFs for Hydrogen Storage via Machine Learning*  
 **Description:** Developed a machine learning based method for fast screening
 of large MOF databases.  
 **Supervisor:** Prof. [George E. Froudakis][frudakis]  
