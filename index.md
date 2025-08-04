@@ -52,10 +52,11 @@ of large MOF databases.
 
 ## 🏅 Scholarships & Awards
 
+* Postgraduate Fellowship, Vasileios Apollon Anagnostakis Bequest Fellowship, 2025
 * Best MSc Thesis Award, [Hellenic Society for the Science and Technology of Condensed Matter][hsstcm], 2025
 * Postgraduate Fellowship, [Independent Power Transmission Operator S.A. (IPTO)][admie] Fellowship, 2024
-* Postgraduate Fellowship, [Maria Michail Manasaki][manasaki] Bequest Fellowship, 2024
-* [Chatzimarinaki Award][chatzimarinaki], Department of Chemistry, University of Crete, 2023
+* Postgraduate Fellowship, Maria Michail Manasaki Bequest Fellowship, 2024
+* Chatzimarinaki Award, Department of Chemistry, University of Crete, 2023
 * Undergraduate Scholarship, [Stamatiou foundation][stamatiou], 2022
 * Undergraduate Scholarship, [Stamatiou foundation][stamatiou], 2021
 * Undergraduate Scholarship, [Stamatiou foundation][stamatiou], 2020
@@ -78,9 +79,7 @@ of large MOF databases.
 [uoc]: https://en.uoc.gr/
 [frudakis]: https://scholar.google.gr/citations?user=FrBT2foAAAAJ&hl=en
 [stamatiou]: https://emstamatiou.gr/
-[chatzimarinaki]: https://www.uoc.gr/announce/chemical.html
 [admie]: https://www.admie.gr/en
-[manasaki]: https://pdmc.uoc.gr/scholarships/ypotrofies-aneksartitou-diacheiristi-metaforas-ilektrikis-energeias-ae-admie/
 [hsstcm]: https://hsstcm.eu/2025/01/14/diagonismos-kalyteris-diplomatikis-ergasias-ston-tomeas-tis-sympyknomenis-ylis-kai-ton-ylikon-2024/
 
 [fedora]: https://img.shields.io/badge/fedora%20linux-black?style=for-the-badge&logo=fedora&logoColor=white&color=%23101130
