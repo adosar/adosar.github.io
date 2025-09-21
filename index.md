@@ -52,8 +52,9 @@ of large MOF databases.
 
 ## 🏅 Scholarships & Awards
 
+* Best MSc Thesis Award (3rd place), [Federation of European Materials Societies][fems], 2025
 * Postgraduate Fellowship, Vasileios Apollon Anagnostakis Bequest Fellowship, 2025
-* Best MSc Thesis Award, [Hellenic Society for the Science and Technology of Condensed Matter][hsstcm], 2025
+* Best MSc Thesis Award (1st place), [Hellenic Society for the Science and Technology of Condensed Matter][hsstcm], 2025
 * Postgraduate Fellowship, [Independent Power Transmission Operator S.A. (IPTO)][admie] Fellowship, 2024
 * Postgraduate Fellowship, Maria Michail Manasaki Bequest Fellowship, 2024
 * Chatzimarinaki Award, Department of Chemistry, University of Crete, 2023
@@ -81,6 +82,7 @@ of large MOF databases.
 [stamatiou]: https://emstamatiou.gr/
 [admie]: https://www.admie.gr/en
 [hsstcm]: https://hsstcm.eu/2025/01/14/diagonismos-kalyteris-diplomatikis-ergasias-ston-tomeas-tis-sympyknomenis-ylis-kai-ton-ylikon-2024/
+[fems]: https://fems.org/fems-master-thesis-award-2025/
 
 [fedora]: https://img.shields.io/badge/fedora%20linux-black?style=for-the-badge&logo=fedora&logoColor=white&color=%23101130
 [ubuntu]: https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white&color=%23101130
