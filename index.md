@@ -52,6 +52,7 @@ of large MOF databases.
 
 ## 🏅 Scholarships & Awards
 
+* Excellence Award “Professor Zoe Dimitriadis Prize”, 2025
 * Best MSc Thesis Award (3rd place), [Federation of European Materials Societies][fems], 2025
 * Postgraduate Fellowship, Vasileios Apollon Anagnostakis Bequest Fellowship, 2025
 * Best MSc Thesis Award (1st place), [Hellenic Society for the Science and Technology of Condensed Matter][hsstcm], 2025
