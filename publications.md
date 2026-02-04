@@ -9,6 +9,14 @@ redirect_from:
   - /download/
 ---
 
+## 📜 [RetNeXt: A Pretrained Model for Transfer Learning Across the MOF Adsorption Space][retnext_paper]
+
+Developing [RetNeXt][retnext], a pretrained 3D convolutional neural network for efficient adsorption property prediction.
+
+<p align="center">
+  <img alt="RetNeXt" src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c02698/asset/images/large/ci5c02698_0001.jpeg" width="60%"/>
+</p>
+
 ## 📜 [Gas adsorption meets geometric deep learning: points, set and match][aidsorb_paper]
 
 Developing [AIdsorb][aidsorb], a deep learning framework that takes as input a molecular point cloud and predicts gas adsorption properties.
@@ -48,3 +56,5 @@ Comparing enery-based descriptors regarding their impact on the performance of M
 [retnet]: https://github.com/adosar/retnet
 [aidsorb_paper]: https://www.nature.com/articles/s41598-024-76319-8
 [aidsorb]: https://github.com/adosar/aidsorb
+[retnext_paper]: https://pubs.acs.org/doi/10.1021/acs.jcim.5c02698
+[retnext]: https://github.com/adosar/retnext
