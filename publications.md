@@ -35,7 +35,7 @@ Developing [RetNet][retnet], a 3D convolutional neural network that takes as inp
 
 ## 📜 [Comparison of machine learning approaches for the identification of top-performing materials for hydrogen storage][sc]
 
-Comparing ML approaches regarding their efficiency for identifying high-performing MOFs regarding hydrogen storage.
+Comparing efficiency of ML approaches for identifying high-performing MOFs regarding hydrogen storage.
 
 <p align="center">
   <img alt="Self-consisent approach" src="https://ars.els-cdn.com/content/image/1-s2.0-S2949839223000561-ga1_lrg.jpg" width="60%"/>
