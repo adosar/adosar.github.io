@@ -70,7 +70,7 @@ of large MOF databases.
 | Operating Systems               | ![fedora][fedora] ![ubuntu][ubuntu]                                                                |
 | Programming Languages           | ![python][python] ![fortran][fortran]                                                              |
 | Markup Languages                | ![latex][latex] ![markdown][markdown]                                                              |
-| Deep Learning Frameworks        | ![pytorch][pytorch] ![lightning][lightning]                                                        |
+| Deep Learning Libraries         | ![pytorch][pytorch] ![lightning][lightning] ![huggingface][huggingface]                            |
 | Libraries                       | ![numpy][numpy] ![pandas][pandas] ![sklearn][sklearn] ![plotly][plotly] ![matplotlib][matplotlib]  |
 | Other Tools                     | ![git][git] ![github][github] ![sphinx][sphinx] ![vim][vim] ![streamlit][streamlit]                |
 
@@ -103,3 +103,4 @@ of large MOF databases.
 [sphinx]: https://img.shields.io/badge/sphinx-black?style=for-the-badge&logo=sphinx&logoColor=white&color=%23101130
 [vim]: https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white&color=%23101130
 [streamlit]: https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto&color=%23101130
+[huggingface]: https://img.shields.io/badge/hugging_face-black?style=for-the-badge&logo=huggingface&logoColor=white&logoSize=auto&color=%23101130
