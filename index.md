@@ -72,7 +72,7 @@ of large MOF databases.
 | Markup Languages                | ![latex][latex] ![markdown][markdown]                                                              |
 | Deep Learning Frameworks        | ![pytorch][pytorch] ![lightning][lightning]                                                        |
 | Libraries                       | ![numpy][numpy] ![pandas][pandas] ![sklearn][sklearn] ![plotly][plotly] ![matplotlib][matplotlib]  |
-| Other Tools                     | ![git][git] ![github][github] ![sphinx][sphinx] ![vim][vim]                                        |
+| Other Tools                     | ![git][git] ![github][github] ![sphinx][sphinx] ![vim][vim] ![streamlit][streamlit]                |
 
 
 
@@ -102,3 +102,4 @@ of large MOF databases.
 [github]: https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&color=%23101130
 [sphinx]: https://img.shields.io/badge/sphinx-black?style=for-the-badge&logo=sphinx&logoColor=white&color=%23101130
 [vim]: https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white&color=%23101130
+[streamlit]: https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white&color=%23101130
