@@ -102,4 +102,4 @@ of large MOF databases.
 [github]: https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white&color=%23101130
 [sphinx]: https://img.shields.io/badge/sphinx-black?style=for-the-badge&logo=sphinx&logoColor=white&color=%23101130
 [vim]: https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white&color=%23101130
-[streamlit]: https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white&color=%23101130
+[streamlit]: https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto&color=%23101130
