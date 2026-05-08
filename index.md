@@ -23,14 +23,13 @@ currently a PhD student in the [Materials Modeling & Design Group][mmdg] at
 on developing and applying ML algorithms for predicting gas adsorption
 properties of metal-organic frameworks (MOFs). If you are interested in learning more about
 machine learning and deep learning, you can take a look at my [master
-thesis](https://raw.githubusercontent.com/adosar/master_thesis/master/master.pdf)
-. Beyond my research, I enjoy problem-solving, coding and learning new things
-about computers and Artificial Intelligence. Additionally, I have a deep passion
-for watches, especially the mechanical ones ❤️.
+thesis][master_thesis]. Beyond my research, I enjoy problem-solving, coding and
+learning new things about computers and Artificial Intelligence. Additionally, I
+have a deep passion for watches, especially the mechanical ones ❤️.
 
-> If the implementation is easy to explain, it may be a good idea.
+> Βελτίων ἡ ἐξ ἐλαττόνων.
 >
-> -- *Zen of Python*
+> -- *Ἀριστοτέλης, Ἀναλυτικὰ Ὕστερα*
 
 ## 🎓 Education
 
@@ -41,7 +40,7 @@ Learning*
 adsorption in porous materials.  
 **Supervisor:** Prof. [George E. Froudakis][frudakis]  
 **GPA:** 9.86 (Excellent)  
-**Repository**: <https://github.com/adosar/master_thesis>
+**Access**: [Click here to view it][master_thesis]
 
 * BSc in Chemistry, 2022 University of Crete, Department of Chemistry  
 **Thesis title:** *Screening MOFs for Hydrogen Storage via Machine Learning*  
@@ -84,6 +83,7 @@ of large MOF databases.
 [admie]: https://www.admie.gr/en
 [hsstcm]: https://hsstcm.eu/2025/01/14/diagonismos-kalyteris-diplomatikis-ergasias-ston-tomeas-tis-sympyknomenis-ylis-kai-ton-ylikon-2024/
 [fems]: https://fems.org/fems-master-thesis-award-2025/
+[master_thesis]: https://raw.githubusercontent.com/adosar/documents/main/master_sarikas.pdf
 
 [fedora]: https://img.shields.io/badge/fedora%20linux-black?style=for-the-badge&logo=fedora&logoColor=white&color=%23101130
 [ubuntu]: https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white&color=%23101130
