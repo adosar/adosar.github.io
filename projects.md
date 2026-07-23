@@ -17,7 +17,7 @@ redirect_from:
 
 * 🚀 [Open the app](https://aidsorb-online.streamlit.app/)
 
-## 💎 AIdsorb: Python package for deep learning on molecular point clouds
+## 💎 AIdsorb: Python package for deep learning on porous materials
 
 <h4 align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/adosar/aidsorb/master/docs/source/images/aidsorb_logo_light.svg" width="40%"/>
