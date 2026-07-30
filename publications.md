@@ -11,7 +11,7 @@ redirect_from:
 
 ## 📜 [RetNeXt: A Pretrained Model for Transfer Learning Across the MOF Adsorption Space][retnext_paper]
 
-Developing [RetNeXt][retnext], a pretrained 3D convolutional neural network for efficient adsorption property prediction.
+Developing [RetNeXt][retnext], a pretrained 3D convolutional neural network for transfer learning across MOF adsorption properties.
 
 <p align="center">
   <img alt="RetNeXt" src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c02698/asset/images/large/ci5c02698_0001.jpeg" width="60%"/>
