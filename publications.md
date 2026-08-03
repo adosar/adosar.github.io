@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Publications
+title: Selected publications
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
@@ -14,7 +14,7 @@ redirect_from:
 Developing [RetNeXt][retnext], a pretrained 3D convolutional neural network for transfer learning across MOF adsorption properties.
 
 <p align="center">
-  <img alt="RetNeXt" src="https://pubs.acs.org/cms/10.1021/acs.jcim.5c02698/asset/images/large/ci5c02698_0001.jpeg" width="60%"/>
+  <img alt="RetNeXt" src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/4/10.1021_acs.jcim.5c02698/3/ci5c02698_0001.png" width="60%"/>
 </p>
 
 ## 📜 [Gas adsorption meets geometric deep learning: points, set and match][aidsorb_paper]
@@ -46,7 +46,7 @@ Comparing efficiency of ML approaches for identifying high-performing MOFs regar
 Comparing enery-based descriptors regarding their impact on the performance of ML models for predicting uptake of various gases in MOFs.
 
 <p align="center">
-  <img alt="Feature importance" src="https://pubs.acs.org/cms/10.1021/acs.jpcc.3c04223/asset/images/large/jp3c04223_0004.jpeg" width="80%"/>
+  <img alt="Feature importance" src="assets/img/dprobes_abstract.png" width="60%"/>
 </p>
 
 [scholar]: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=Zv2Uk0AAAAAJ&authuser=1&scilu=&scisig=AOScLA0AAAAAZTZOq_UhR11DllEgGMnBJdJ2rLw&gmla=AJ1KiT0f5uPOfsFiMcEy9LtOu3Sk-24gDUzLOAQIzjA29mA-yH1xbDz4du7yoiQObS41EU_cNCWpSKLwnFq5xLzrC9Pp1kFSJxx2mFQ&sciund=14498684564743431950
