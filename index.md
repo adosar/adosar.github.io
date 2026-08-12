@@ -18,12 +18,11 @@ redirect_from:
 
 I am a Chemistry graduate with a Master’s degree in Physical & Computational
 Chemistry and currently a PhD student in the [Materials Modeling & Design
-Group][mmdg] at the [University of Crete][uoc]. My research focuses on the
-application of Machine Learning (ML) techniques to the study of gas adsorption
-in porous materials, with particular emphasis on developing ML models for
-understanding and predicting adsorption behavior, as well as exploring
-generative approaches for the inverse design and discovery of novel porous
-materials.
+Group][mmdg] at the [University of Crete][uoc]. My research focuses on
+leveraging Machine Learning (ML) techniques to understand and predict gas
+adsorption in porous materials, with particular emphasis on developing
+predictive models and exploring generative approaches for the inverse design of
+novel porous materials.
 
 If you are interested in learning more about machine learning, deep learning,
 and their applications in porous materials research, you can take a look at my
