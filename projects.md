@@ -9,14 +9,6 @@ redirect_from:
   - /download/
 ---
 
-## 💎 AIdsorb-online: App for predicting properties of porous materials
-
-<h4 align="center">
-  <img alt="Logo" src="assets/img/aidsorb_online_website.png" width="70%"/>
-</h4>
-
-* 🚀 [Open the app](https://aidsorb-online.streamlit.app/)
-
 ## 💎 AIdsorb: Python package for deep learning on porous materials
 
 <h4 align="center">
@@ -35,3 +27,19 @@ redirect_from:
 
 * 🏠 [Homepage](https://github.com/adosar/moxel)
 * 📚 [Documentation](https://moxel.readthedocs.io/en/stable/)
+
+## 💎 AIdsorb-online: Evaluating porous materials via deep learning
+
+<h4 align="center">
+  <img alt="Logo" src="assets/img/aidsorb_online_website.png" width="70%"/>
+</h4>
+
+* 🚀 [Open the app](https://aidsorb-online.streamlit.app/)
+
+## 💎 PoLiPaiR: Evaluating pocket-ligand fitness via machine learning
+
+<h4 align="center">
+  <img alt="Logo" src="assets/img/polipair_logo.png" width="40%"/>
+</h4>
+
+* 🚀 [Open the app](https://polipair-demo.streamlit.app/)

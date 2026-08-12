@@ -16,16 +16,23 @@ redirect_from:
 
 👋 Hello,
 
-I am a Chemistry graduate with a Master's degree in Physical & Computational Chemistry, and
-currently a PhD student in the [Materials Modeling & Design Group][mmdg] at
-[University of Crete][uoc], specializing in the application of Machine Learning
-(ML) techniques to study gas adsorption in porous materials. My research focuses
-on developing and applying ML algorithms for predicting gas adsorption
-properties of metal-organic frameworks (MOFs). If you are interested in learning more about
-machine learning and deep learning, you can take a look at my [master
-thesis][master_thesis]. Beyond my research, I enjoy problem-solving, coding and
-learning new things about computers and Artificial Intelligence. Additionally, I
-have a deep passion for watches, especially the mechanical ones ❤️.
+I am a Chemistry graduate with a Master’s degree in Physical & Computational
+Chemistry and currently a PhD student in the [Materials Modeling & Design
+Group][mmdg] at the [University of Crete][uoc]. My research focuses on the
+application of Machine Learning (ML) techniques to the study of gas adsorption
+in porous materials, with particular emphasis on developing ML models for
+understanding and predicting adsorption behavior, as well as exploring
+generative approaches for the inverse design and discovery of novel porous
+materials.
+
+If you are interested in learning more about machine learning, deep learning,
+and their applications in porous materials research, you can take a look at my
+[master’s thesis][master_thesis].
+
+Beyond research, I enjoy problem-solving, coding, and exploring new
+technologies, particularly in the fields of computers and Artificial
+Intelligence. I also have a deep passion for watches, especially mechanical
+ones. ❤️
 
 > Βελτίων ἡ ἐξ ἐλαττόνων.
 >
