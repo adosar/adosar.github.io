@@ -16,8 +16,6 @@ redirect_from:
 
 👋 Hello,
 
-👋 Hello,
-
 I am a chemist and PhD researcher in the [Materials Modeling & Design
 Group][mmdg] at the [University of Crete][uoc], working at the intersection of
 Artificial Intelligence 🤖, Chemistry 🧪 and materials science ⚛️.
@@ -32,7 +30,7 @@ If you are interested in learning more about my earlier work on machine learning
 and deep learning for porous materials, you can take a look at my [master’s
 thesis][master_thesis]. You can also experiment with machine learning models for
 gas adsorption through [AIdsorb-online][aidsorb-online]. For a hands-on
-introduction to Python and machine learning for MOFs, check out [ML4MOFs][ml4mofs].
+introduction, check out [ML4MOFs][ml4mofs].
 
 Outside academia, I enjoy mechanical watches and traditional menswear, with a
 particular interest in their history, design, and craftsmanship ❤️.
