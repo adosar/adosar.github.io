@@ -9,6 +9,8 @@ redirect_from:
   - /download/
 ---
 
+For a full list of software and code please refer to my [GitHub profile](https://github.com/adosar).
+
 ## 💎 AIdsorb: Python package for deep learning on porous materials
 
 <h4 align="center">
