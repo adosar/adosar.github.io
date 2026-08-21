@@ -9,7 +9,7 @@ redirect_from:
   - /download/
 ---
 
-For a full list of software and code please refer to my [GitHub profile](https://github.com/adosar).
+For a full list of software and code please refer to my 💻 [GitHub profile](https://github.com/adosar).
 
 ## 💎 AIdsorb: Python package for deep learning on porous materials
 
@@ -30,7 +30,7 @@ For a full list of software and code please refer to my [GitHub profile](https:/
 * 🏠 [Homepage](https://github.com/adosar/moxel)
 * 📚 [Documentation](https://moxel.readthedocs.io/en/stable/)
 
-## 💎 PoLiPaiR: Evaluating pocket-ligand fitness via machine learning
+## 💎 PoLiPaiR: Analyzing pocket-ligand fitness via machine learning
 
 <h4 align="center">
   <img alt="Logo" src="assets/img/polipair_logo.png" width="40%"/>
@@ -38,7 +38,7 @@ For a full list of software and code please refer to my [GitHub profile](https:/
 
 * 🚀 [Open the app](https://polipair-demo.streamlit.app/)
 
-## 💎 AIdsorb-online: Evaluating porous materials via deep learning
+## 💎 AIdsorb-online: Analyzing porous materials via deep learning
 
 <h4 align="center">
   <img alt="Logo" src="assets/img/aidsorb_online_website.png" width="70%"/>
