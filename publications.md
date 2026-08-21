@@ -13,7 +13,7 @@ For a full list of publications please refer to my 🎓 [Google Scholar][scholar
 
 ## 📜 IntelliPore: A Foundation Model for Gas Adsorption in Porous Materials (submitted)
 
-Proposed [IntelliPore][intellipore], a foundation model pretrained at scale on energy images and adsorption-related data across multiple tasks and domains, enabling transfer learning across porous materials and gas adsorption properties.
+Introduced [IntelliPore][intellipore], a foundation model pretrained at scale on energy images and adsorption-related data across multiple tasks and domains, enabling transfer learning across porous materials and gas adsorption properties.
 
 <p align="center">
   <img alt="IntelliPore" src="https://raw.githubusercontent.com/adosar/intellipore-paper/master/images/toc.png" width="65%"/>
@@ -37,7 +37,7 @@ Proposed a point cloud representation of porous materials and developed [AIdsorb
 
 ## 📜 [Gas adsorption meets deep learning: voxelizing the potential energy surface of metal-organic frameworks][retnet_paper]
 
-Conceptualized a 3D representation for porous materials obtained by voxelizing the potential-energy surface, and developed [RetNet][retnet], a 3D convolutional neural network for learning gas adsorption properties directly from energy images.
+Proposed a 3D representation for porous materials obtained by voxelizing the potential-energy surface, and developed [RetNet][retnet], a 3D convolutional neural network for learning gas adsorption properties directly from energy images.
 
 <p align="center">
   <img alt="RetNet Architecture" src="https://raw.githubusercontent.com/adosar/retnet/master/images/retnet.png" width="60%"/>
