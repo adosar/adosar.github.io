@@ -29,11 +29,11 @@ novel porous materials.
 If you are interested in learning more about my earlier work on machine learning
 and deep learning for porous materials, you can take a look at my [master’s
 thesis][master_thesis]. You can also experiment with machine learning models for
-gas adsorption through [AIdsorb-online][aidsorb-online]. For a hands-on
-introduction, check out [ML4MOFs][ml4mofs].
+gas adsorption through [AIdsorb-online][aidsorb-online].
 
-Outside academia, I enjoy mechanical watches and traditional menswear, with a
-particular interest in their history, design, and craftsmanship ❤️.
+Beyond research, I enjoy learning about science and AI and contributing to
+open-source projects. Outside academia, I'm fascinated by mechanical watches and
+traditional menswear, especially their history, design, and craftsmanship ❤️.
 
 > Βελτίων ἡ ἐξ ἐλαττόνων.
 >
