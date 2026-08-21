@@ -11,30 +11,28 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&duration=3000&pause=1000&color=FFFFFF&background=101130&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Fast+Learner;%F0%9F%9A%80+Self-driven;%F0%9F%90%8D+Pythonist;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%A7%AA+Computational+Chemist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&duration=3000&pause=1000&color=FFFFFF&background=101130&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Fast+Learner;%F0%9F%9A%80+Self-driven;%F0%9F%90%8D+Pythonist;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%A7%AA+AI4Chemistry" />
 </p>
 
 👋 Hello,
 
 I am a chemist and PhD researcher in the [Materials Modeling & Design
 Group][mmdg] at the [University of Crete][uoc], working at the intersection of
-Artificial Intelligence, chemistry, and materials science.
+Artificial Intelligence 🤖, chemistry 🧪, and materials science 🔬.
 
-My research focuses on **AI for materials discovery**, with particular emphasis on
-machine learning, representation learning, and foundation models for porous
+My research focuses on **AI for materials discovery**, with particular emphasis
+on machine learning, representation learning, and foundation models for porous
 materials. I develop data-driven representations and predictive models for gas
 adsorption and explore generative and inverse-design approaches for discovering
 novel porous materials.
 
 If you are interested in learning more about my earlier work on machine learning
 and deep learning for porous materials, you can take a look at my [master’s
-thesis][master_thesis]. You can also experiment with machine learning models for
-adsorption through [AIdsorb-online][aidsorb-online].
+thesis][master_thesis]. You can also experiment with machine-learning models for
+gas adsorption through [AIdsorb-online][aidsorb-online].
 
-Beyond research, I enjoy problem-solving, learning, and exploring new
-technologies, particularly in science, computing, and Artificial Intelligence.
-Outside academia, I enjoy mechanical watches and traditional menswear, with a
-particular interest in their history, design, and craftsmanship.
+Outside academia, I enjoy mechanical watches and traditional menswear,
+with a particular interest in their history, design and craftsmanship ❤️.
 
 > Βελτίων ἡ ἐξ ἐλαττόνων.
 >
