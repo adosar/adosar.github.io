@@ -16,22 +16,25 @@ redirect_from:
 
 👋 Hello,
 
-I am a Chemistry graduate with a Master’s degree in Physical & Computational
-Chemistry and currently a PhD student in the [Materials Modeling & Design
-Group][mmdg] at the [University of Crete][uoc]. My research focuses on
-leveraging Machine Learning (ML) techniques to understand and predict gas
-adsorption in porous materials, with particular emphasis on developing
-predictive models and exploring generative approaches for the inverse design of
+I am a chemist and PhD researcher in the [Materials Modeling & Design
+Group][mmdg] at the [University of Crete][uoc], working at the intersection of
+Artificial Intelligence, chemistry, and materials science.
+
+My research focuses on **AI for materials discovery**, with particular emphasis on
+machine learning, representation learning, and foundation models for porous
+materials. I develop data-driven representations and predictive models for gas
+adsorption and explore generative and inverse-design approaches for discovering
 novel porous materials.
 
-If you are interested in learning more about machine learning, deep learning,
-and their applications in porous materials research, you can take a look at my
-[master’s thesis][master_thesis].
+If you are interested in learning more about my earlier work on machine learning
+and deep learning for porous materials, you can take a look at my [master’s
+thesis][master_thesis]. You can also experiment with machine learning models for
+adsorption through [AIdsorb-online][aidsorb-online].
 
-Beyond research, I enjoy problem-solving, coding, and exploring new
-technologies, particularly in the fields of computers and Artificial
-Intelligence. I also have a deep passion for watches, especially mechanical
-ones. ❤️
+Beyond research, I enjoy problem-solving, learning, and exploring new
+technologies, particularly in science, computing, and Artificial Intelligence.
+Outside academia, I enjoy mechanical watches and traditional menswear, with a
+particular interest in their history, design, and craftsmanship.
 
 > Βελτίων ἡ ἐξ ἐλαττόνων.
 >
@@ -39,7 +42,7 @@ ones. ❤️
 
 ## 🎓 Education
 
-* MSc in Physical & Computational Chemistry, 2024 University of Crete, Department of Chemistry  
+* MSc in Physical Chemistry, 2024 University of Crete, Department of Chemistry  
 **Thesis title:** *From Potential Energy Surface to Gas Adsorption via Deep
 Learning*  
 **Description:** Developed a deep learning based method for predicting gas
@@ -110,3 +113,4 @@ of large MOF databases.
 [vim]: https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white&color=%23101130
 [streamlit]: https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto&color=%23101130
 [huggingface]: https://img.shields.io/badge/hugging_face-black?style=for-the-badge&logo=huggingface&logoColor=white&logoSize=auto&color=%23101130
+[aidsorb-online]: https://aidsorb-online.streamlit.app/
