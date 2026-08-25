@@ -44,18 +44,16 @@ traditional menswear, especially their history, design, and craftsmanship ❤️
 * MSc in Physical Chemistry, 2024 University of Crete, Department of Chemistry  
 **Thesis title:** *From Potential Energy Surface to Gas Adsorption via Deep
 Learning*  
-**Description:** Developed a deep learning based method for predicting gas
-adsorption in porous materials.  
-**Supervisor:** Prof. [George E. Froudakis][frudakis]  
+**Description:** Developed a deep learning framework method for predicting gas
+adsorption in porous materials using 3D energy images.  
 **GPA:** 9.86 (Excellent)  
 **Access**: [Click here to view it][master_thesis]
 
 * BSc in Chemistry, 2022 University of Crete, Department of Chemistry  
 **Thesis title:** *Screening MOFs for Hydrogen Storage via Machine Learning*  
-**Description:** Developed a machine learning based method for fast screening
-of large MOF databases.  
-**Supervisor:** Prof. [George E. Froudakis][frudakis]  
-**GPA:** 8.64 (Excellent), graduated in 3.5 years, first of the class
+**Description:** Developed a machine learning framework for rapid identification
+of top-performing MOFs for hydrogen storage.  
+**GPA:** 8.64 (Excellent, 1st of the class, graduated in 3.5/4 years)
 
 ## 🏅 Scholarships & Awards
 
