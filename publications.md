@@ -11,7 +11,7 @@ redirect_from:
 
 For a full list of publications please refer to my 🎓 [Google Scholar][scholar] profile.
 
-## 📜 IntelliPore: A Foundation Model for Gas Adsorption in Porous Materials (submitted)
+## 📜 [IntelliPore: A Foundation Model for Gas Adsorption in Porous Materials (preprint)][intellipore_paper]
 
 Introduced [IntelliPore][intellipore], a foundation model pretrained at scale on energy images and adsorption-related data across multiple tasks and domains, enabling transfer learning across porous materials and gas adsorption properties.
 
@@ -69,3 +69,4 @@ Benchmarked energy-based descriptors for machine learning prediction of gas adso
 [retnext_paper]: https://pubs.acs.org/doi/10.1021/acs.jcim.5c02698
 [retnext]: https://github.com/adosar/retnext
 [intellipore]: https://github.com/adosar/intellipore-paper
+[intellipore_paper]: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008693/v1
