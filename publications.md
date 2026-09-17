@@ -24,7 +24,7 @@ Introduced [IntelliPore][intellipore], a foundation model pretrained at scale on
 Introduced a multi-task pretraining approach for learning transferable representations across the MOF adsorption space and developed [RetNeXt][retnext], a 3D convolutional neural network that leverages energy images for transfer learning across gas adsorption properties.
 
 <p align="center">
-  <img alt="RetNeXt" src="https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/4/10.1021_acs.jcim.5c02698/3/ci5c02698_0001.png" width="60%"/>
+  <img alt="RetNeXt" src="assets/img/retnext.png" width="60%"/>
 </p>
 
 ## 📜 [Gas adsorption meets geometric deep learning: points, set and match][aidsorb_paper]
