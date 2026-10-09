@@ -16,20 +16,21 @@ redirect_from:
 
 👋 Hello,
 
-I am a chemist and PhD researcher in the [Materials Modeling & Design
-Group][mmdg] at the [University of Crete][uoc], working at the intersection of
-Artificial Intelligence 🤖, Chemistry 🧪 and materials science ⚛️.
+I am an **AI researcher and PhD candidate in Chemistry** at the [University of
+Crete][uoc], where I work with the [Materials Modeling & Design Group][mmdg]. My
+work brings together Artificial Intelligence 🤖, chemistry 🧪, and materials
+science ⚛️.
 
-My research focuses on **AI for materials discovery**, with particular emphasis
-on machine learning, representation learning, and foundation models for porous
-materials. I develop data-driven representations and predictive models for gas
-adsorption and explore generative and inverse-design approaches for discovering
-novel porous materials.
+My research focuses on **AI for materials discovery**, particularly developing
+machine learning methods that learn efficiently from data and generalize across
+porous materials. I work on data-driven representations, predictive models, and
+foundation models for porous materials, while also exploring generative and
+inverse-design approaches for discovering novel materials.
 
-If you are interested in learning more about my earlier work on machine learning
-and deep learning for porous materials, you can take a look at my [master’s
+If you would like to learn more about my earlier work on machine learning and
+deep learning for porous materials, take a look at my [master’s
 thesis][master_thesis]. You can also experiment with machine learning models for
-gas adsorption through [AIdsorb-online][aidsorb-online].
+porous materials through [AIdsorb-online][aidsorb-online].
 
 Beyond research, I enjoy learning about science and AI and contributing to
 open-source projects. Outside academia, I'm fascinated by mechanical watches and
@@ -73,7 +74,7 @@ of top-performing MOFs for hydrogen storage.
 | Category                        | Name                                                                                               |
 | ------------------------------- | :------------------------------------------------------------------------------------------------: |
 | Operating Systems               | ![fedora][fedora] ![ubuntu][ubuntu]                                                                |
-| Programming Languages           | ![python][python] ![fortran][fortran]                                                              |
+| Programming Languages           | ![python][python]                                                                                  |
 | Markup Languages                | ![latex][latex] ![markdown][markdown]                                                              |
 | Deep Learning Libraries         | ![pytorch][pytorch] ![lightning][lightning] ![huggingface][huggingface]                            |
 | Libraries                       | ![numpy][numpy] ![pandas][pandas] ![sklearn][sklearn] ![plotly][plotly] ![matplotlib][matplotlib]  |
