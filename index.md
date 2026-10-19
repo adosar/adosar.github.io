@@ -24,8 +24,8 @@ science ⚛️.
 My research focuses on **AI for materials discovery**, particularly developing
 machine learning methods that learn efficiently from data and generalize across
 porous materials. I work on data-driven representations, predictive models, and
-foundation models for porous materials, while also exploring generative and
-inverse-design approaches for discovering novel materials.
+foundation models, while also exploring generative and inverse-design approaches
+for discovering novel materials.
 
 If you would like to learn more about my earlier work on machine learning and
 deep learning for porous materials, take a look at my [master’s
